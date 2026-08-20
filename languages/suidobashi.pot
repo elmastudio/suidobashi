@@ -1,0 +1,528 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Suidobashi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-28 19:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0"
+
+#. 1: date
+#: functions.php:387
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:382
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: 404.php:15
+msgid "404! Oops, that page can&rsquo;t be found"
+msgstr ""
+
+#: functions.php:434 functions.php:467 functions.php:494
+msgid "<span class=\"meta-nav\">Next</span>"
+msgstr ""
+
+#: functions.php:433 functions.php:463 functions.php:493
+msgid "<span class=\"meta-nav\">Previous</span>"
+msgstr ""
+
+#: functions.php:413
+msgid "<span>Pingback:</span>"
+msgstr ""
+
+#. Name of the template
+msgid "About Page"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "About Page Background Color"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "About Page Text Color"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "All posts filed under &lsquo;%s&rsquo;"
+msgstr ""
+
+#: archive.php:22
+#, php-format
+msgid "All posts tagged &lsquo;%s&rsquo;"
+msgstr ""
+
+#: archive.php:40
+msgid "All Projects"
+msgstr ""
+
+#: archive.php:43
+#, php-format
+msgid "All projects filed under &lsquo;%s&rsquo;"
+msgstr ""
+
+#: archive.php:37
+msgid "All Quotes"
+msgstr ""
+
+#: archive.php:46
+msgid "Archives"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: functions.php:79
+msgid "black"
+msgstr ""
+
+#: content-single.php:46
+msgid "by "
+msgstr ""
+
+#: inc/customizer.php:192
+msgid ""
+"Change the number of further projects at the bottom of single Portfolio "
+"projects."
+msgstr ""
+
+#: search-main.php:16
+msgid "Close"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgid "Comment 1"
+msgid_plural "Comments %1$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: content-portfolio-single.php:16
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Custom Footer Credit Text:"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: functions.php:391 content-portfolio-single.php:32 content.php:60
+#: content-quote.php:39 image.php:25
+msgid "Edit"
+msgstr ""
+
+#: content-page.php:29
+msgid "Edit Page"
+msgstr ""
+
+#: content-single.php:41
+msgid "Edit Post"
+msgstr ""
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr ""
+
+#: content-single.php:34 content-portfolio.php:21
+#: content-portfolio-single.php:30 content.php:56 content-quote.php:36
+msgid "Filed under: "
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Fixed-positioned title/logo image"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Footer Slogan Text:"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Front Page Header Intro Text:"
+msgstr ""
+
+#. Name of the template
+msgid "Full-Width Page"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Header Email:"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Header Phone Number:"
+msgstr ""
+
+#: inc/customizer.php:101
+msgid "Hide Header Search"
+msgstr ""
+
+#: footer.php:31
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.elmastudio.de/en/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.elmastudio.de/en/themes/suidobashi/"
+msgstr ""
+
+#: image.php:16
+msgid "Images"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Include a slogan or quote text in the footer. You can use HTML."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+
+#: archive.php:96
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: page-templates/portfolio-page.php:65
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:61
+msgid "L"
+msgstr ""
+
+#: functions.php:60
+msgid "large"
+msgstr ""
+
+#: functions.php:66
+msgid "larger"
+msgstr ""
+
+#: functions.php:109
+msgid "light blue"
+msgstr ""
+
+#: functions.php:104
+msgid "light green"
+msgstr ""
+
+#: functions.php:89
+msgid "light grey"
+msgstr ""
+
+#: functions.php:99
+msgid "light red"
+msgstr ""
+
+#: functions.php:94
+msgid "light yellow"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Link Color"
+msgstr ""
+
+#: functions.php:55
+msgid "M"
+msgstr ""
+
+#: inc/demo-installer.php:19
+msgid ""
+"Make sure you have the Jetpack plugin for your portfolio installed, before "
+"importing this demo!"
+msgstr ""
+
+#: header.php:29
+msgid "Menu"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: single-jetpack-portfolio.php:45
+msgid "More Projects"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments"
+msgstr ""
+
+#: image.php:81
+msgid "Next Image"
+msgstr ""
+
+#: page-templates/portfolio-page.php:55
+msgid "No Project Found"
+msgstr ""
+
+#: archive.php:92 search.php:31
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Number of further Portfolio projects"
+msgstr ""
+
+#: comments.php:37
+msgid "Older Comments"
+msgstr ""
+
+#: content-page.php:20 content-portfolio-single.php:19 content.php:46
+#: content-quote.php:27 content-about.php:16
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:14 content.php:29 content-quote.php:14
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: search-main.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio Page"
+msgstr ""
+
+#: footer.php:31
+msgid "Powered by"
+msgstr ""
+
+#: image.php:82
+msgid "Previous Image"
+msgstr ""
+
+#: functions.php:131
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:249 content.php:43 content-quote.php:24
+msgid "Read More"
+msgstr ""
+
+#: page-templates/portfolio-page.php:61
+#, php-format
+msgid ""
+"Ready to publish your first portfolio project? <a href=\"%1$s\">Get started "
+"here</a>."
+msgstr ""
+
+#: functions.php:54
+msgid "regular"
+msgstr ""
+
+#: functions.php:402
+msgid "Reply to this comment"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Retina-optimized logo image"
+msgstr ""
+
+#: functions.php:49
+msgid "S"
+msgstr ""
+
+#: header.php:34 searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:48
+msgid "small"
+msgstr ""
+
+#: search.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own language.
+#: functions.php:165
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Special Link Background Color"
+msgstr ""
+
+#: search-main.php:14 searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. Name of the theme
+msgid "Suidobashi"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Suidobashi is a minimal, clean Portfolio theme to feature your creative work "
+"or projects. Using the Jetpack plugins portfolio custom post type, your "
+"online portfolio becomes very flexible. Suidobashi also comes with a default "
+"blog layout, so you can include news or a journal on your portfolio website."
+msgstr ""
+
+#: footer.php:30
+#, php-format
+msgid "Suidobashi Theme by %2$s."
+msgstr ""
+
+#: content-single.php:39
+msgid "Tagged: "
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Theme"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid ""
+"This text will be visible in the header area of your front page. You can use "
+"HTML."
+msgstr ""
+
+#: functions.php:84
+msgid "white"
+msgstr ""
+
+#: footer.php:31
+msgid "WordPress."
+msgstr ""
+
+#: functions.php:67
+msgid "XL"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:34
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:398
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Your uploaded logo/Header image needs to be 2x its actual size."
+msgstr ""
+
+msgid ""
+"<strong>%s</strong> supports automatic updates using WordPress' update "
+"mechanism. To use this feature you need to activate the theme using your "
+"Product Key, which can be found in your Elmastudio account dashboard. The "
+"theme stays fully functional without activation and still can be updated "
+"manually. %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+msgid " Activation"
+msgstr ""
+
+msgid " Product Key Activation"
+msgstr ""
+
+msgid "Product Key Activation"
+msgstr ""
+
+msgid "Product Key Deactivation"
+msgstr ""
+
+msgid "Product Key"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "Product Key Status"
+msgstr ""
+
+msgid "Deactivate Product Key"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid ""
+"Connection failed to the Elmastudio server. Try again later. There may be a "
+"problem on your server preventing outgoing requests."
+msgstr ""
+
+msgid "Product Key deactivated."
+msgstr ""
+
+msgid ""
+"The Product Key could not be deactivated. Use the Product Key Deactivation "
+"tab to manually deactivate the Product Key before activating a new Product "
+"Key."
+msgstr ""
+
+msgid "Deactivates an Product Key so it can be used on another blog."
+msgstr ""
+
+msgid "%s activated."
+msgstr ""

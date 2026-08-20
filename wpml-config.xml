@@ -1,0 +1,11 @@
+<wpml-config>
+    <admin-texts>
+	    <key name="theme_mods_suidobashi">
+	        <key name="header_intro" />
+	        <key name="contact_mail" />
+          <key name="contact_phone" />
+	        <key name="footer_slogan" />
+	        <key name="credit_text" />
+	    </key>
+    </admin-texts>
+</wpml-config>
