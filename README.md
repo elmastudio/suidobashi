@@ -17,6 +17,10 @@ cd wp-content/themes
 git clone https://github.com/elmastudio/suidobashi.git
 ```
 
+## Updates
+
+Install the Git Updater plugin (https://git-updater.com/) and WordPress will offer new versions of this theme as regular theme updates, straight from GitHub.
+
 ## Status
 
 This theme is no longer actively developed. It is published here as-is, for anyone who still runs it or wants to build on it.

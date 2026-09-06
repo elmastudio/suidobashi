@@ -4,6 +4,9 @@ For the detailed theme documentation visit:
 - https://www.elmastudio.de/doks/suidobashi/ (German)
 
 
+Updates:
+Install the Git Updater plugin (https://git-updater.com/) and WordPress will offer new versions of this theme as regular theme updates, straight from GitHub.
+
 Changelog:
 
 Version 1.0.11 (16/08/2021)
